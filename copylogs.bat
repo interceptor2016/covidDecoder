@@ -1,0 +1,1 @@
+copy C:\laralois_Covid\_shared\test.log logs

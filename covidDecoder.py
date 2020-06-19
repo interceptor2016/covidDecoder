@@ -1,7 +1,7 @@
 import sys
 import os
 
-from testscript import testprint
+from testscript import *
 
-testprint()
+readfilecontent()
 print('test')
